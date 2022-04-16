@@ -1,4 +1,3 @@
-#создай тут фоторедактор Easy Editor!
 import os #модуль для работы с операционной системой
 from PyQt5.QtWidgets import (
     QApplication, QWidget,
